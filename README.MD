@@ -1,99 +1,73 @@
-<p align="center">
-<img 
-    src="./assets/cover.png"
-    width="300"
-/>
-</p>
 
 <p align="center">
-<a href="https://dio.me/">
-    <img 
-        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
-        alt="DIO - Code The Future">
-</a>
-<a href="https://dio.me/">
-<img 
-    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
-    alt="🔴 LIVE CODE">
-</a>
+  <img src="assets/capa-podcast.png" alt="Capa do SkillCast" width="200" style="border-radius: 50%;" />
 </p>
 
-<p align="center">
-    preview do podcast
-</p>
 
-<div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
-</div>
-
-# Projeto Podcast Gerado por I.A.s
-
-
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
-
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
-
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
-
-## 💻 Tecnologias utilizadas no projeto
-
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [ElevenLabs](https://beta.elevenlabs.io/)
-- [Capcut](https://www.capcut.com/pt-br/)
-
-## ✨ Como foi feito ?
-
-- Roteiro gerado via chatgpt
-- Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
-- Capcut para tratar aúdio e adicionar sons de fundo
-
-## 📚 Materiais
-
-- [Link da live no Youtube](https://www.youtube.com)
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
-
-
-## 🛠️ Instruções de execução
-
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
-
-- 🤖 1. Use os prompts de roteiro no `chagpt`
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
-
-## 👨‍💻 Expert
-
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/felipeAguiarCode">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="www.linkedin.com/in/felipe-exe">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
-        Instagram
-    </a>
-    &nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
+<h1 align="center">🎙️ SkillCast - Pirata do Código</h1>
+<h3 align="center">Navegando pelos mares ocultos da lógica e da interface</h3>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+## Sobre o Projeto
+
+Este repositório documenta o processo criativo e técnico por trás do **SkillCast - Pirata do Código**, um podcast de tecnologia voltado para iniciantes em desenvolvimento back end. Com uma abordagem descontraída, referências à cultura nerd e linguagem acessível, o podcast traz curiosidades, ferramentas e dicas sobre o universo da programação.
+
+---
+
+## Etapas do Projeto
+
+### 1. Roteirização (ChatGPT)
+- **Ferramenta**: [ChatGPT](https://chat.openai.com/)
+- **Objetivo**: Criar nome, subtítulo e roteiro do podcast.
+- **Resultado**:
+  - **Nome**: SkillCast - Pirata do Código
+  - **Subtítulo**: Navegando pelos mares ocultos da lógica e da interface
+  - **Formato do roteiro**:
+    ```
+    INTRODUÇÃO
+    CURIOSIDADE 1: O que é uma API?
+    CURIOSIDADE 2: Ferramenta Postman
+    FINALIZAÇÃO
+    ```
+  - **Apresentadora**: MariGo
+  - **Estilo**: Descontraído, nerd e educativo, inspirado nos vídeos do canal *Ei Nerd*
+
+---
+
+### 2. Criação da Capa (Copilot)
+- **Ferramenta**: [GitHub Copilot](https://github.com/features/copilot) + prompts artísticos
+- **Descrição da imagem**:
+  - Versão feminina do Luffy
+  - Cabelo preto longo, olhos verdes
+  - Sorrindo com microfone em um quarto rosa
+  - Cadeira gamer e decoração inspirada em One Piece
+  - Estilo anime
+- **Formato**: Imagem circular, utilizada no topo deste `README.md` como identidade visual do projeto
+
+---
+
+### 3. Produção do Episódio Piloto
+- **Título do episódio**: O que é uma API?
+- **Duração**: ~5 minutos
+- **Conteúdo**:
+  - **Introdução** com estilo narrativo descontraído e empolgante, inspirado nos vídeos do canal *Ei Nerd*.
+  - **Curiosidade 1**: Explicação simples e direta sobre o que é uma API, com exemplos do cotidiano.
+  - **Curiosidade 2**: Demonstração da ferramenta Postman e sua utilidade para testar APIs de forma visual.
+  - **Finalização**: Fechamento com a frase de assinatura da apresentadora: *"Eu sou a MariGo e esse foi o SkillCast dessa semana!"*
+
+- **Ferramentas utilizadas**:
+  - [ElevenLabs](https://beta.elevenlabs.io/) — para síntese de voz a partir do roteiro.
+  - [CapCut](https://www.capcut.com/) — para edição do áudio final (corte, trilha e efeitos).
+  - [ChatGPT](https://chat.openai.com/) — para geração do roteiro e prompts.
+  - [Copilot](https://github.com/features/copilot) — para auxílio criativo na criação da capa.
+  - [Postman](https://www.postman.com/) — ferramenta mencionada no episódio.
+
+- **Formato final**:
+  - Arquivo `.mp3` disponível na pasta `output/`
+  - Nome do arquivo original: `skillcast-episodio01.mp3`
+  - Arquivo `.mp3` disponível na pasta `audio/`
+  - Nome do arquivo editado: `audio-editado-ep1.MP3`
+- **Público-alvo**: Iniciantes em back-end e entusiastas da programação
+
+---
