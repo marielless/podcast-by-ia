@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="assets/capa-podcast.png" alt="Capa do SkillCast" width="200";" />
+  <img src="assets/capa-podcast.png" alt="Capa do SkillCast" width="200" style="border-radius: 80%;" />
 </p>
 
 
