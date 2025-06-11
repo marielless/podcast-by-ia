@@ -36,7 +36,7 @@ Este repositório documenta o processo criativo e técnico por trás do **SkillC
 ---
 
 ### 2. Criação da Capa (Copilot)
-- **Ferramenta**: [GitHub Copilot](https://github.com/features/copilot) + prompts artísticos
+- **Ferramenta**: [Copilot](https://github.com/features/copilot) + prompts artísticos
 - **Descrição da imagem**:
   - Versão feminina do Luffy
   - Cabelo preto longo, olhos verdes
